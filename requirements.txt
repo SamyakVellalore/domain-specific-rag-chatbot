@@ -1,0 +1,6 @@
+streamlit>=1.36
+pypdf>=4.2
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy>=1.26
+google-genai>=1.0
